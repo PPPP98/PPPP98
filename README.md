@@ -11,6 +11,7 @@ Hi! I'm **Jinho Park**, a Data Science graduate student at **Pusan National Univ
   - Jan 2025 – Dec 2025 (Total 1,725 hours)  
   - Intensive Software & AI training program  
   - Focus: Algorithms, Backend Development, AI-based Projects
+  - Software Certificate Professional - LEVEL **B**
 
 ## Interests
 - Data Science / AI
